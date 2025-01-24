@@ -21,16 +21,24 @@ This project focuses on analyzing a dataset, uncovering key insights, and presen
     * Includes all project files, code, and a detailed README file for easy understanding and reproduction
 
 ## Project Structure
-main.py: Main Python script for the Streamlit application.
+main.py, processor.py: Main Python scripts for the Streamlit application.
+
 logo.jpg: Logo of the project
-data/: Folder containing the dataset used in the project.
+
+new_movies.csv, new_credits.csv, ratings.csv: Dataset used in the project.
+
 requirements.txt: File listing all the dependencies needed to run the application.
+
 README.md: Documentation for the project.
 
 
 ## Technologies Used
 Python: Data analysis and visualization.
+
 Streamlit: Interactive web application development.
+
 Pandas: Data cleaning and manipulation.
+
 Matplotlib/Seaborn: Visualizations.
+
 Streamlit Cloud: Application deployment.
